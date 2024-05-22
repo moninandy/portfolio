@@ -11,18 +11,18 @@ function Projects() {
             link:'https://favicon.io/favicon-converter/'
 
         },
-        {
-            image:websiteImg,
-            description:"A Ecommerce Website. Built with MERN STACK",
-            link:''
+        // {
+        //     image:websiteImg,
+        //     description:"A Ecommerce Website. Built with MERN STACK",
+        //     link:''
 
-        },
-        {
-            image:websiteImg,
-            description:"A Ecommerce Website. Built with MERN STACK ",
-            link:''
+        // },
+        // {
+        //     image:websiteImg,
+        //     description:"A Ecommerce Website. Built with MERN STACK ",
+        //     link:''
 
-        }
+        // }
     ]
  }
 
