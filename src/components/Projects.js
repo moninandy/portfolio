@@ -13,7 +13,7 @@ function Projects() {
         },
          {
             image:websiteImg,
-            description:"A Ecommerce Website. Built with MERN STACK",
+            description:"A Responsive cards Built with React Hooks",
             link:'https://master--tangerine-centaur-b1c087.netlify.app/'
 
          }
