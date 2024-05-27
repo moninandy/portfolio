@@ -32,7 +32,7 @@ function Projects() {
 <div className='w-full'>
     <div className='flex flex-col px-10 py-5' >
     <h1 className='text-4xl border-b-4 border-primary mb-5 w-[150px] font-bold '>Projects</h1>
-    <p> These are my some of projects. I have Built these with React  Vanila CSS.Check them out</p>
+    <p> These are my some of projects. I have Built these with React  Vanila js and Tailwind CSS.Check them out</p>
     </div>
 </div>
 <div className='w-full'>
