@@ -4,7 +4,7 @@ import ResumeImg from '../assets/resume.png'
 function Resume() {
 
   const config ={
-    link:"https://drive.google.com/file/d/1k2KlufkWelhnDuMBsK7F2lv1KN12lZkD/view?usp=sharing"
+    link:"https://drive.google.com/file/d/1J7rlENWASxLxnPb_UGiE_Vgvzf9etArC/view?usp=sharing"
   }
   return (
    <section id="Resume" className='flex flex-col md:flex-row bg-primary px-5'>
