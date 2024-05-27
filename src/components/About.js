@@ -3,7 +3,7 @@ import AboutImg from '../assets/hero.png'
 
 function About() {
  const config= {
-   line1:"Hi,My name is Monisha. am an enthusiastic Front-End Developer with 7 months of hands-on experience as a UI Developer. My expertise lies in building responsive, user-friendly web applications using HTML, CSS, and JavaScript. My journey in web development includes valuable internships where I developed strong foundational skills and a keen eye for detail.",
+   line1:"Hi, My name is Monisha. I am an enthusiastic Front-End Developer with 7 months of hands-on experience as a UI Developer. My expertise lies in building responsive, user-friendly web applications using HTML, CSS, and JavaScript. My journey in web development includes valuable internships where I developed strong foundational skills and a keen eye for detail.",
    line2:"I have a strong foundation in React.js, JavaScript, HTML, Tailwind CSS, and CSS3, which I use to build dynamic and responsive web applications",
    line3:"In addition to my professional experience, I have completed a comprehensive Professional Front-End Development course, which has equipped me with up-to-date knowledge of industry standards and best practices. I am passionate about learning new technologies and continuously improving my skills"
  }

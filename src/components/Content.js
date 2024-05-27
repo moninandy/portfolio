@@ -4,7 +4,7 @@ import { FaLinkedin,FaGithub } from "react-icons/fa";
 function Content() {
 
   const config={
-    subtitle:"Iam a Front End Developer ",
+    subtitle:"Front End Developer ",
     social:{
       linkedin:"https://www.linkedin.com/in/monisha-sridhar-611352248/",
        github:"https://github.com/moninandy"
