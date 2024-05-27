@@ -1,22 +1,22 @@
 import React from 'react'
-import websiteImg from '../assets/hero.png'
-import  img1 from "../assets/dev.jpg"
+import websiteImg from '../assets/Ecommerce.jpg'
+import  img1 from "../assets/download.jpg"
 
 function Projects() {
  const config={
     projects:[
         {
-            image:websiteImg,
-            description:"A Ecommerce Website. Built with MERN STACK",
-            link:'https://favicon.io/favicon-converter/'
+            image:img1,
+            description:"A Ecommerce Website. Using With Tailwind CSS",
+            link:'https://cozy-fairy-3c862e.netlify.app/'
 
         },
-        // {
-        //     image:websiteImg,
-        //     description:"A Ecommerce Website. Built with MERN STACK",
-        //     link:''
+         {
+            image:websiteImg,
+            description:"A Ecommerce Website. Built with MERN STACK",
+            link:'https://master--tangerine-centaur-b1c087.netlify.app/'
 
-        // },
+         }
         // {
         //     image:websiteImg,
         //     description:"A Ecommerce Website. Built with MERN STACK ",
@@ -40,11 +40,11 @@ function Projects() {
         {config.projects.map((project)=>(
            
         <div className='relative'>
-    <img className='h-[300px] w-[500px]' src={project.image}/>
+    <img className='h-[300px] w-[500px]'key={project.id} src={project.image} alt="proimg"/>
     <div className='absolute left-0 right-0 bottom-[45px] top-0 bg-primary opacity-0 hover:opacity-100'>
     <p className='text-center px-5 py-5'>{project.description}</p>
     <div className='flex justify-center'>
-        <a className='button' target="_blank" href={project.link}>View Project</a></div>
+        <a className='button' href={project.link}>View Project</a></div>
     </div>
     </div>
    
