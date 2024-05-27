@@ -1,13 +1,13 @@
 import React from 'react'
 import grlImg from '../assets/download (1).png';
-import { FaLinkedin,FaGithub , FaFacebook} from "react-icons/fa";
+import { FaLinkedin,FaGithub } from "react-icons/fa";
 function Content() {
 
   const config={
     subtitle:"Iam a Front End Developer ",
     social:{
       linkedin:"https://www.linkedin.com/in/monisha-sridhar-611352248/",
-      github:"https://github.com/moninandy"
+       github:"https://github.com/moninandy"
 
     }
   }
