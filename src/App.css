@@ -9,10 +9,10 @@ header ul li {
 
 }
 .bg-primary{
-  background: #833471;
+  background:#706fd3;
 }
 .bg-secondary{
-  background:#FDA7DF ;
+  background:#474787;
 }
 .mobile-nav{
   @apply fixed top-10 left-0 bg-gray-800 w-full h-1/4 ;

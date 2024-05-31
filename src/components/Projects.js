@@ -1,28 +1,29 @@
 import React from 'react'
 import websiteImg from '../assets/Ecommerce.jpg'
-import  img1 from "../assets/download.jpg"
-
+import  img1 from "../assets/EcommerceWebsite.png"
+import img2 from "../assets/E-website.png"
 function Projects() {
  const config={
     projects:[
         {
             image:img1,
-            description:"A Ecommerce Website. Using With Tailwind CSS",
-            link:'https://cozy-fairy-3c862e.netlify.app/'
+            description:"A Ecommerce website. using with React and Tailwind CSS",
+            link:'https://frolicking-torrone-0fa1bc.netlify.app/'
+            
 
         },
          {
             image:websiteImg,
-            description:"A Responsive cards Built with React Hooks",
+            description:"A Responsive cards built with React Hooks",
             link:'https://master--tangerine-centaur-b1c087.netlify.app/'
 
-         }
-        // {
-        //     image:websiteImg,
-        //     description:"A Ecommerce Website. Built with MERN STACK ",
-        //     link:''
+         },
+        {
+             image:img2,
+             description:"Responsive Website Built with React and Tailwind CSS ",
+             link:'https://cozy-fairy-3c862e.netlify.app/'
 
-        // }
+         }
     ]
  }
 
